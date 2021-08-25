@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ActionBarAndroidVideo45</string>
+    <string name="icon_buscar">Buscar</string>
+    <string name="icon_compartir">Compartir</string>
+    <string name="menu_item1">Opcion 1</string>
+    <string name="menu_item2">Opcion 2</string>
+</resources>
